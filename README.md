@@ -6,8 +6,8 @@ This project delves into the profound impact of the COVID-19 pandemic on student
 
 <h2>Some EDA's</h2>
 
-<img src="https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/How%20students%20spent%20their%20time.png" alt="Image 1" width="300">
+[Image 1](https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/How%20students%20spent%20their%20time.png)
 
-<img src="https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/Studying%20Time.png" alt="Image 2" width="300">
+![Image 2](https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/Studying%20Time.png)
 
-<img src="https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/Time%20on%20social%20media.png" alt="Image 3" width="300">
+![Image 3](https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/Time%20on%20social%20media.png)
