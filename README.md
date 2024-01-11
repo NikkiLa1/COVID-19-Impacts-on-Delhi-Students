@@ -6,6 +6,6 @@ This project delves into the profound impact of the COVID-19 pandemic on student
 
 <h2>Some EDA's</h2>
 
-- ![Image 1](https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/COVID-19%20Survey%20Student%20Responses.csv)
+- ![Image 1](https://github.com/NikkiLa1/COVID-19-Impacts-on-Delhi-Students/blob/main/How%20students%20spent%20their%20time.png)
 - <b>Artificial Neural Network (ANN)</b>
 - <b>Naive Bayes Classifier</b>
